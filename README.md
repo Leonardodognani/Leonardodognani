@@ -1,5 +1,4 @@
-# Olá! Eu sou o Leonardo Dognani! Seja bem vindo! 🐺
-
+# Hello World! Eu sou o Leonardo Dognani! Seja bem vindo! 🐺
 <div>
   <a href="https://github.com/Leonardodognani">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
