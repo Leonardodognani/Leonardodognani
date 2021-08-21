@@ -1,4 +1,4 @@
-# Hello World! Eu sou o Leonardo Dognani! Seja bem vindo! 🐺
+# Olá! Meu nome é Leonardo Dognani! Seja bem vindo! 🐺
  <img src="https://img.shields.io/github/followers/Leonardodognani.svg?style=social&label=Follow&maxAge=2592000" width="100"> <img src="https://img.shields.io/github/watchers/Leonardodognani/Leonardodognani.svg"> ![Visits Badge](https://badges.pufler.dev/visits/Leonardodognani/Leonardodognani) ![Repos Badge](https://badges.pufler.dev/repos/Leonardodognani)
 <div>
   <a href="https://github.com/Leonardodognani">
@@ -25,6 +25,19 @@
 </div>
   
   ##
-  
+ 
+ # Apresentação
+ 
+<p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
+Moro com minha mulher e temos 2 gatos muito fofos e folgados.
+Atualmente sou concursado público, mas caso seja chamado para um trabalho ou até mesmo um estágio que dê para pagar as contas, estou disposto a pedir demissão para ingressar na área de tecnologia - só preciso de uma oportunidade^^</p>
+<p align="justify">Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</p>
+
+## Algumas coisas sobre mim
+ * Cursando Superior Tecnológico (CST) de Sistemas para Internet, pela FAM - Faculdade das Américas
+ * Inglês avançado (auto didata)
+ * Livros
+ * Cozinhar
+ * Karatê
 
 
