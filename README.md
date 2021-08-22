@@ -2,8 +2,8 @@
  <img src="https://img.shields.io/github/followers/Leonardodognani.svg?style=social&label=Follow&maxAge=2592000" width="100"> <img src="https://img.shields.io/github/watchers/Leonardodognani/Leonardodognani.svg"> ![Visits Badge](https://badges.pufler.dev/visits/Leonardodognani/Leonardodognani) ![Repos Badge](https://badges.pufler.dev/repos/Leonardodognani)
 <div>
   <a href="https://github.com/Leonardodognani">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,7 +27,7 @@
   ##
  
  ## Um pouco sobre mim
- <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mzxqZlWj-t6hnEuN9rLq13-TtcH9PnpK_g&usqp=CAU">
+ <img align="left" width="225" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mzxqZlWj-t6hnEuN9rLq13-TtcH9PnpK_g&usqp=CAU">
  
 <p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
 Moro com minha mulher e temos 2 gatos muito fofos e folgados.
@@ -42,13 +42,13 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  #### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  #### 📚 Amante de livros
  #### 👨‍🍳 Adoro cozinhar
- #### 🍺 Apreciador de cerveja
+ #### 🍺 Apreciador de cerveja  <img align="right" width="250" src="https://i.pinimg.com/originals/3f/21/12/3f2112084b32daab5635a2b6703fe364.jpg">
  #### 🍷  Ás vezes faço hidromel (Meadmaker)
- #### ✍️ Escritor amador com algumas publicações
+ #### ✍️ Escritor amador com algumas publicações  
  #### 🌲 Natureza
  #### 🐺 Adoro animais, especialmente Lobos
- #### 🎞️ Curto assistir filmes, séries, animes e desenhos
-
+ #### 🎞️ Curto assistir filmes, séries, animes e desenhos 
+ 
  ##
  
  ## 👋 Fique à vontade para entrar em contato, seja para propostas, dúvidas ou até mesmo aumentar o nosso networking =)
