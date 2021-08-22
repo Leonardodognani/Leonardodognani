@@ -2,8 +2,8 @@
  <img src="https://img.shields.io/github/followers/Leonardodognani.svg?style=social&label=Follow&maxAge=2592000" width="100"> <img src="https://img.shields.io/github/watchers/Leonardodognani/Leonardodognani.svg"> ![Visits Badge](https://badges.pufler.dev/visits/Leonardodognani/Leonardodognani) ![Repos Badge](https://badges.pufler.dev/repos/Leonardodognani)
 <div>
   <a href="https://github.com/Leonardodognani">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 <div style="display: inline_block"><br>
