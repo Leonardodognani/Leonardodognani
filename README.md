@@ -27,7 +27,7 @@
   ##
  
  ## Um pouco sobre mim
- <img align="left" width="225" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mzxqZlWj-t6hnEuN9rLq13-TtcH9PnpK_g&usqp=CAU">
+ <img align="left" width="250" src="https://i.pinimg.com/originals/3f/21/12/3f2112084b32daab5635a2b6703fe364.jpg">
  
 <p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
 Moro com minha mulher e temos 2 gatos muito fofos e folgados.
@@ -42,7 +42,7 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  #### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  #### 📚 Amante de livros
  #### 👨‍🍳 Adoro cozinhar
- #### 🍺 Apreciador de cerveja  <img align="right" width="250" src="https://i.pinimg.com/originals/3f/21/12/3f2112084b32daab5635a2b6703fe364.jpg">
+ #### 🍺 Apreciador de cerveja 
  #### 🍷  Ás vezes faço hidromel (Meadmaker)
  #### ✍️ Escritor amador com algumas publicações  
  #### 🌲 Natureza
