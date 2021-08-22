@@ -31,21 +31,25 @@
  
 <p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
 Moro com minha mulher e temos 2 gatos muito fofos e folgados.
-Atualmente sou concursado público, mas caso seja chamado para um trabalho ou até mesmo um estágio que dê para pagar as contas, estou disposto a pedir demissão para ingressar na área de tecnologia - só preciso de uma oportunidade^^</p>
+Atualmente sou concursado público, mas caso seja chamado para um trabalho ou até mesmo um estágio que dê para pagar as contas, estou disposto a pedir demissão para ingressar na área de tecnologia - só preciso de uma oportunidade. ^^</p>
 <p align="justify">Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</p>
 
   ##
  
  #### 👨‍🎓 Cursando Superior Tecnológico (CST) de Sistemas para Internet, pela FAM - Faculdade das Américas
- #### ⭐ Inglês avançado (auto didata)
+ #### ⭐ Inglês avançado (autodidata)
+ #### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
  #### 🥋 Kuro Obi (faixa preta) de Dento Karatê
- #### 📚 Amante de Livros
- #### 👨‍🍳 Adoro Cozinhar
+ #### 📚 Amante de livros
+ #### 👨‍🍳 Adoro cozinhar
  #### 🍺 Apreciador de cerveja
- #### 🍷  Ás vezes faço hidromel
- #### ✍️ Gosto de escrever
+ #### 🍷  Ás vezes faço hidromel (Meadmaker)
+ #### ✍️ Escritor amador com algumas publicações
  #### 🌲 Natureza
  #### 🐺 Adoro animais, especialmente Lobos
  #### 🎞️ Curto assistir filmes, séries, animes e desenhos
 
-
+ ##
+ 
+ ## 👋 Fique à vontade para entrar em contato, seja para propostas, dúvidas ou até mesmo aumentar o nosso networking =)
+ 
