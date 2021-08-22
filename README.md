@@ -41,6 +41,7 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  #### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
  #### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  #### 📚 Amante de livros
+ #### 📕 Bruxaria, ocultismo e caminho da mão esquerda
  #### 👨‍🍳 Adoro cozinhar
  #### 🍺 Apreciador de cerveja 
  #### 🍷  Ás vezes faço hidromel (Meadmaker)
