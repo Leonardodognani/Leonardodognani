@@ -1,4 +1,4 @@
-# Olá! Meu nome é Leonardo Dognani! Seja bem vindo! 💻
+# Olá! Meu nome é Leonardo Dognani! Seja bem vindo! <img width="100" src="https://i.pinimg.com/originals/c7/ab/8b/c7ab8b4f2a7eb2218f36eea65a4b4070.gif">
   <img src="https://img.shields.io/github/followers/Leonardodognani.svg?style=social&label=Follow&maxAge=2592000" width="100"> <img src="https://img.shields.io/github/watchers/Leonardodognani/Leonardodognani.svg"> ![Visits Badge](https://badges.pufler.dev/visits/Leonardodognani/Leonardodognani) ![Repos Badge](https://badges.pufler.dev/repos/Leonardodognani)
 <div>
   <a href="https://github.com/Leonardodognani">
