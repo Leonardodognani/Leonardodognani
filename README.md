@@ -16,7 +16,7 @@
   
  ![wr1](https://user-images.githubusercontent.com/82122343/130303858-2738ba44-24e6-4eab-b047-a9b49968db35.gif) 
   ##
-  
+ 
 <div>
 <a href="https://github.com/Leonardodognani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"></a>
 <a href="https://www.linkedin.com/in/leonardodognani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -52,5 +52,5 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  
  ##
  
- ## 👋 Fique à vontade para entrar em contato, seja para propostas, dúvidas ou até mesmo aumentar o nosso networking =)
+ ## 👋 Fique à vontade para entrar em contato, seja para propostas, dúvidas ou até mesmo para aumentar o nosso networking =)
  
