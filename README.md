@@ -52,5 +52,5 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  
  ##
  
- ## 👋 Fique à vontade para entrar em contato, seja para propostas, dúvidas ou até mesmo para aumentar o nosso networking =)
+## <img align="left" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50">Fique à vontade para entrar em contato, seja para propostas, dúvidas ou até mesmo para aumentar o nosso networking =)
  
