@@ -29,10 +29,10 @@
  ## Um pouco sobre mim
  <img align="left" width="365" src="https://thumbs.gfycat.com/BlueSaltyGoral-size_restricted.gif">
  
-<p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
+<p align="justify" size="+50"><h4>Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
 Moro com minha mulher e temos 2 gatos muito fofos e folgados.
-Atualmente sou concursado público, mas caso seja chamado para um trabalho ou até mesmo um estágio que dê para pagar as contas, estou disposto a pedir demissão para ingressar na área de tecnologia - só preciso de uma oportunidade. ^^</p>
-<p align="justify">Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</p>
+Atualmente sou concursado público, mas caso seja chamado para um trabalho ou até mesmo um estágio que dê para pagar as contas, estou disposto a pedir demissão para ingressar na área de tecnologia - só preciso de uma oportunidade. ^^</h4></p>
+<p align="justify"><h4>Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</h4></p>
 
   ##
  
