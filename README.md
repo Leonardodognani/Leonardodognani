@@ -36,19 +36,19 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
 
   ##
  
- #### 👨‍🎓 Cursando Superior Tecnológico (CST) de Sistemas para Internet, pela FAM - Faculdade das Américas
- #### ⭐ Inglês avançado (autodidata)
- #### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
- #### 🥋 Kuro Obi (faixa preta) de Dento Karatê
- #### 📚 Amante de livros
- #### 📕 Bruxaria, ocultismo e caminho da mão esquerda
- #### 👨‍🍳 Adoro cozinhar
- #### 🍺 Apreciador de cerveja 
- #### 🍷  Ás vezes faço hidromel (Meadmaker)
- #### ✍️ Escritor amador com algumas publicações  
- #### 🌲 Natureza
- #### 🐺 Adoro animais, especialmente Lobos
- #### 🎞️ Curto assistir filmes, séries, animes e desenhos 
+ ### 👨‍🎓 Cursando Superior Tecnológico (CST) de Sistemas para Internet, pela FAM - Faculdade das Américas
+ ### ⭐ Inglês avançado (autodidata)
+ ### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
+ ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
+ ### 📚 Amante de livros
+ ### 📕 Bruxaria, ocultismo e caminho da mão esquerda
+ ### 👨‍🍳 Adoro cozinhar
+ ### 🍺 Apreciador de cerveja 
+ ### 🍷  Ás vezes faço hidromel (Meadmaker)
+ ### ✍️ Escritor amador com algumas publicações  
+ ### 🌲 Natureza
+ ### 🐺 Adoro animais, especialmente Lobos
+ ### 🎞️ Curto assistir filmes, séries, animes e desenhos 
  
  ##
  
