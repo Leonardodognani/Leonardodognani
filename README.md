@@ -27,7 +27,7 @@
   ##
  
  ## Um pouco sobre mim
- <img align="left" width="250" src="https://i.pinimg.com/originals/3f/21/12/3f2112084b32daab5635a2b6703fe364.jpg">
+ <img align="left" width="365" src="https://thumbs.gfycat.com/BlueSaltyGoral-size_restricted.gif">
  
 <p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
 Moro com minha mulher e temos 2 gatos muito fofos e folgados.
