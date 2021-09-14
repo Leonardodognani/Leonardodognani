@@ -31,7 +31,7 @@
  ## Um pouco sobre mim
  <img align="left" width="365" src="https://thumbs.gfycat.com/BlueSaltyGoral-size_restricted.gif">
  
-<h3><p align="justify" size="+50">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
+<h3><p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
 Moro com minha mulher e temos 2 gatos muito fofos e folgados.
 Atualmente sou concursado público, mas caso seja chamado para um trabalho ou até mesmo um estágio que dê para pagar as contas, estou disposto a pedir demissão para ingressar na área de tecnologia - só preciso de uma oportunidade. ^^</p></h3>
 <h3><p align="justify">Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</p></h3>
@@ -44,7 +44,7 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  ### 📚 Amante de livros
  ### 📕 Bruxaria, ocultismo e caminho da mão esquerda
- ### 👨‍🍳 Adoro cozinhar
+ ### 👨‍🍳 Adoro cozinhar <img align="right" width="350" src="https://64.media.tumblr.com/0c7eeba8bf6f7f8277be02766dd5b4aa/tumblr_mxknr2c1e31sbo963o1_500.gif">
  ### 🍺 Apreciador de cerveja 
  ### 🍷  Ás vezes faço hidromel (Meadmaker)
  ### ✍️ Escritor amador com algumas publicações  
