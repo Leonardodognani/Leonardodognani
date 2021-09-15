@@ -44,7 +44,7 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  ### 📚 Amante de livros
  ### 📕 Bruxaria, ocultismo e caminho da mão esquerda
- ### 👨‍🍳 Adoro cozinhar <img align="right" width="300" src="https://64.media.tumblr.com/0c7eeba8bf6f7f8277be02766dd5b4aa/tumblr_mxknr2c1e31sbo963o1_500.gif">
+ ### 👨‍🍳 Adoro cozinhar
  ### 🍺 Apreciador de cerveja 
  ### 🍷  Ás vezes faço hidromel (Meadmaker)
  ### ✍️ Escritor amador com algumas publicações  
