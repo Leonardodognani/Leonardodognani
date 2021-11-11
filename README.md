@@ -40,7 +40,7 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  ### 👨‍🎓 Cursando Superior Tecnológico (CST) de Sistemas para Internet, pela FAM - Faculdade das Américas
  ### ⭐ Inglês avançado (autodidata)
  ### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
- ### 🎓 Bootcamp Impulso React Web - 67h - pela plataforma da Digital Innovation One (Cursando)
+ ### 🎓 Bootcamp Impulso React Web - 67h - pela plataforma da Digital Innovation One
  ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  ### 📚 Amante de livros
  ### 📕 Bruxaria, ocultismo e caminho da mão esquerda
