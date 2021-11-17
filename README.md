@@ -51,6 +51,7 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  ### 🌲 Natureza
  ### 🐺 Adoro animais, especialmente Lobos
  ### 🎞️ Curto assistir filmes, séries, animes e desenhos 
+ ### 🧐 Sou curioso e gosto de aprender coisas novas
  
  ##
  
