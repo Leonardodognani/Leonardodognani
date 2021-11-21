@@ -40,6 +40,7 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  ### ⭐ Inglês avançado (autodidata)
  ### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
  ### 🎓 Bootcamp Impulso React Web - 67h - pela plataforma da Digital Innovation One
+ ### 🎓 Bootcamp JavaScript Game Developer - 108h - pela plataforma da Digital Innovation One (cursando)
  ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  ### 📚 Amante de livros
  ### 📕 Bruxaria, ocultismo e caminho da mão esquerda
