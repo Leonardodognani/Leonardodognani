@@ -31,7 +31,7 @@
  
 <h3><p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
 Moro com minha mulher e temos 2 gatos muito fofos e folgados.
-Atualmente sou concursado público, mas caso seja chamado para um trabalho ou até mesmo um estágio que dê para pagar as contas, estou disposto a pedir demissão para ingressar na área de tecnologia - só preciso de uma oportunidade. ^^</p></h3>
+Atualmente sou concursado público (em aviso prévio^^) e estou me aventurando na área e logo mais estarei atualiznado aqui^^</p></h3>
 <h3><p align="justify">Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</p></h3>
 
   ##
@@ -55,5 +55,5 @@ Atualmente sou concursado público, mas caso seja chamado para um trabalho ou at
  
  ##
  
-## <img align="left" src="https://64.media.tumblr.com/4cf1cc6e28fa35120ce2fd7b81736ac8/tumblr_p14wxjQaZI1wbwnoqo1_400.gifv"><p align="justify">Fique à vontade para entrar em contato, seja para propostas, dúvidas ou até mesmo para aumentar o nosso networking <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25"></p><img align="right" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
+## <img align="left" src="https://64.media.tumblr.com/4cf1cc6e28fa35120ce2fd7b81736ac8/tumblr_p14wxjQaZI1wbwnoqo1_400.gifv"><p align="justify">Fique à vontade para entrar em contato, seja para trocar ideias, dúvidas ou até mesmo para aumentar o nosso networking <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25"></p><img align="right" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
 
