@@ -51,6 +51,7 @@ Atualmente sou concursado público (em aviso prévio^^), estou me aventurando na
  ### 🌲 Natureza
  ### 🐺 Adoro animais, especialmente Lobos
  ### 🎞️ Curto assistir filmes, séries, animes e desenhos 
+ ### 🎮 Tenho interesse em criação de jogos
  ### 🧐 Sou curioso e gosto de aprender coisas novas
  
  ##
