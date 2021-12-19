@@ -31,7 +31,7 @@
  
 <h3><p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP.
 Moro com minha mulher e temos 2 gatos muito fofos e folgados.
-Atualmente sou concursado público (em aviso prévio^^) e estou me aventurando na área e logo mais estarei atualizando aqui^^</p></h3>
+Atualmente sou concursado público (em aviso prévio^^), estou me aventurando na área e estou em processo de contratação em uma Empresa muito legal (inclusive na qual eu queria muito entrar!) e logo mais estarei atualizando sobre aqui^^ Devido à correria de final de ano, de saída de um emprego e da contratação por outro, fora muitas outras coisas a serem resolvidas, estou ha algumas semanas sem atualizar o GitHub, mas logo, logo estarei de volta, a todo o vapor!!!</p></h3>
 <h3><p align="justify">Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</p></h3>
 
   ##
