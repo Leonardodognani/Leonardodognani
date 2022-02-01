@@ -7,18 +7,18 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-VS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" valign="bottom" alt="Leo-Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Leo-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-VS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" valign="bottom" alt="Leo-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </div>
 
   ##
 ### Atualmente estudando:
 <div style="display: inline_block"><br>
-  <img alt="Leo-cs" height="70" width="80" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg>
-  <img alt="Leo-dotnet" height="70" width="80" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg>
+  <img alt="Leo-cs" height="60" width="70" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg>
+  <img alt="Leo-dotnet" height="60" width="70" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg>
 </div>
   
  ![wr1](https://user-images.githubusercontent.com/82122343/130303858-2738ba44-24e6-4eab-b047-a9b49968db35.gif) 
