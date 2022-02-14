@@ -45,6 +45,7 @@ Estou muito feliz e empolgado em ser um Ventureiro e de poder aprender mais a ca
  
  ### 👨‍🎓 Cursando Superior Tecnológico (CST) de Sistemas para Internet, pela FAM - Faculdade das Américas
  ### ⭐ Inglês avançado (autodidata)
+ ### ⭐ Iniciando os estudos em francês
  ### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
  ### 🎓 Bootcamp Impulso React Web - 67h - pela plataforma da Digital Innovation One
  ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
