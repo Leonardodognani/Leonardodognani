@@ -19,6 +19,7 @@
 <div style="display: inline_block"><br>
   <img alt="Leo-cs" height="60" width="70" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg>
   <img alt="Leo-dotnet" height="60" width="70" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg>
+  <img alt="Leo-dotnet" height="60" width="70" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg>
 </div>
   
  ![wr1](https://user-images.githubusercontent.com/82122343/130303858-2738ba44-24e6-4eab-b047-a9b49968db35.gif) 
