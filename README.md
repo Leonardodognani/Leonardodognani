@@ -63,7 +63,7 @@ Estou muito feliz e empolgado em ser um Ventureiro e de poder aprender mais a ca
  ### 🧐 Sou curioso e gosto de aprender coisas novas
  ### 👹 Tattoo
  ### 🖥️ Home Office
- ### 👨‍💻 Estudante de FrontEnd, mas atualmente estudando e experimentando BackEnd
+ ### 👨‍💻 Estudante de FrontEnd em formação
  
  ##
  
