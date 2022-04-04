@@ -53,7 +53,7 @@ Estou muito feliz e empolgado em ser um Ventureiro e de poder aprender mais a ca
  ### 🌲 Natureza
  ### 🐺 Adoro animais, especialmente Lobos
  ### 🎞️ Curto assistir filmes, séries, animes e desenhos 
- ### 🎮 Tenho interesse em criação de jogos
+ ### 🎮 Tenho interesse em criação de jogos (e curto jogar também)
  ### 🧐 Sou curioso e gosto de aprender coisas novas
  ### 👹 Tattoo
  ### 🖥️ Home Office
