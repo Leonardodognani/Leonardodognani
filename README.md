@@ -44,12 +44,10 @@ Estou muito feliz e empolgado em ser um Ventureiro e de poder aprender mais a ca
  ### ⭐ Inglês avançado (autodidata)
  ### ⭐ Iniciando os estudos em francês
  ### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
- ### 🎓 Bootcamp Impulso React Web - 67h - pela plataforma da Digital Innovation One
  ### 🎓 Curso de Git e GitHub, do básico ao avançado - 8.5h - Prof. Matheus Battisti, pela Udemy
  ### 🎓 Cursando 'Build Responsive Real-World Websites with HTML and CSS' - 37.5h - Prof. Jonas Schmedtmann, pela Udemy
  ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  ### 📚 Amante de livros
- ### 📕 Bruxaria, ocultismo e caminho da mão esquerda
  ### 👨‍🍳 Adoro cozinhar
  ### 🍺 Apreciador de cerveja 
  ### 🍷  Ás vezes faço hidromel (Meadmaker)
