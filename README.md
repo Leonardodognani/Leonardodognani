@@ -34,7 +34,7 @@
  ## Um pouco sobre mim
  <img align="left" width="365" src="https://thumbs.gfycat.com/BlueSaltyGoral-size_restricted.gif">
  
-<h3><p align="justify">Me chamo Leonardo, sou carioca, tenho 36 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP. Moro com minha mulher e temos 2 gatos muito fofos e folgados. Atualmente trabalho na Venturus, como estagiário em tecnologia.
+<h3><p align="justify">Me chamo Leonardo, sou carioca, tenho 37 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP. Moro com minha esposa e temos 2 gatos muito fofos e folgados. Atualmente trabalho na Venturus, como estagiário em tecnologia.
 Estou muito feliz e empolgado em ser um Ventureiro e de poder aprender mais a cada dia^^.</p></h3>
 <h3><p align="justify">Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</p></h3>
 
