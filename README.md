@@ -1,7 +1,5 @@
-# Olá! Meu nome é Leonardo Dognani! Seja bem vindo! <img align="right" width="130" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
-
 ![github1loop](https://user-images.githubusercontent.com/82122343/184030582-55203017-b5da-41c3-b5ce-d199ca501d13.gif)
-
+<img align="right" width="130" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
 
   <img src="https://img.shields.io/github/followers/Leonardodognani.svg?style=social&label=Follow&maxAge=2592000" width="100"> <img src="https://img.shields.io/github/watchers/Leonardodognani/Leonardodognani.svg"> ![Visits Badge](https://badges.pufler.dev/visits/Leonardodognani/Leonardodognani) ![Repos Badge](https://badges.pufler.dev/repos/Leonardodognani)
 <div>
