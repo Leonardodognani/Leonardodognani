@@ -2,9 +2,9 @@
 ![githubImg](https://user-images.githubusercontent.com/82122343/184031939-10a0f20d-1e03-4753-b994-e70a56975756.jpg)
 
 <div align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img width="130" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img width="140" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
 </div>
 ##
 ##
