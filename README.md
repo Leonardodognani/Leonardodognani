@@ -1,27 +1,38 @@
 
 ![githubImg](https://user-images.githubusercontent.com/82122343/184031939-10a0f20d-1e03-4753-b994-e70a56975756.jpg)
 
-<img align="right" width="130" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
+<img align="right" width="280" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
 
-  <img src="https://img.shields.io/github/followers/Leonardodognani.svg?style=social&label=Follow&maxAge=2592000" width="100"> <img src="https://img.shields.io/github/watchers/Leonardodognani/Leonardodognani.svg"> ![Visits Badge](https://badges.pufler.dev/visits/Leonardodognani/Leonardodognani) ![Repos Badge](https://badges.pufler.dev/repos/Leonardodognani)
+
 <div>
   <a href="https://github.com/Leonardodognani">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-<div style="display: inline_block"><br>
+  # Skills
+<div style="display: inline_block">
   <img align="center" alt="Leo-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-VS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" valign="bottom" alt="Leo-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </div>
+ <br>
+ 
+ # Currently Studying
+<div style="display: inline_block">
+ <img align="center" alt="Leo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Leo-React height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+<br>
 
-  ##
-  
-  ### Noções básicas de: <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50">
-  
+  # Basic notion:
+<div style="display: inline_block">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
+</div>
+
  ![wr1](https://user-images.githubusercontent.com/82122343/130303858-2738ba44-24e6-4eab-b047-a9b49968db35.gif) 
   
   ##
