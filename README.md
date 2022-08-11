@@ -2,21 +2,14 @@
 ![githubImg](https://user-images.githubusercontent.com/82122343/184031939-10a0f20d-1e03-4753-b994-e70a56975756.jpg)
 
 <div align="center">
-<img height="135em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img width="135" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
-<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
-</div>
-##
-##
-
-<div>
-  <a href="https://github.com/Leonardodognani">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img width="135" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-  # Skills
-<div style="display: inline_block">
+ 
+  <h1 align="center">Skills:</h1>
+<div style="display: inline_block" align="center">
   <img align="center" alt="Leo-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-VS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -24,28 +17,32 @@
  </div>
  <br>
  
- # Currently Studying
-<div style="display: inline_block">
+ <h1 align="center">Currently Studying:</h1>
+<div style="display: inline_block" align="center">
  <img align="center" alt="Leo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Leo-React height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 <br>
 
-  # Basic notion:
-<div style="display: inline_block">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
+ <h1 align="center">Basic notion:</h1>
+<div style="display: inline_block" align="center">
+ <img alt="Leo-Csharp" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"> 
+ <img alt="Leo-DotNet" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"> 
+ <img alt="Leo-MySql" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
 </div>
 
- ![wr1](https://user-images.githubusercontent.com/82122343/130303858-2738ba44-24e6-4eab-b047-a9b49968db35.gif) 
+##
+
+<div align="center">
+  <img width="600" src="https://c.tenor.com/YgRC88yv2-wAAAAC/wolfs-wolf.gif">
+</div>
+ 
   
   ##
  
 <div>
 <a href="https://github.com/Leonardodognani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"></a>
 <a href="https://www.linkedin.com/in/leonardodognani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/5519920007284" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 <a href = "mailto:leonarddewar@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
   
