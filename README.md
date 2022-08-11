@@ -63,6 +63,7 @@ Estou muito feliz e empolgado em ser um Ventureiro e de poder aprender mais a ca
  ### 🎓 Curso de Git e GitHub, do básico ao avançado - 8.5h - Prof. Matheus Battisti, pela Udemy
  ### 🎓 Build Responsive Real-World Websites with HTML and CSS - 37.5h - Prof. Jonas Schmedtmann, pela Udemy
  ### 🎓 Cursando 'React - The Complete Guide (incl Hooks, React Router, Redux)' - 48,5h - Prof. Maximilian Schwarzmüller, pela Udemy
+ ### 🎓 Cursando 'The Complete JavaScript Course 2022: From Zero to Expert!' - 69h - Prof. Jonas Schmedtmann, pela Udemy
  ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  ### 📚 Amante de livros
  ### 👨‍🍳 Adoro cozinhar
