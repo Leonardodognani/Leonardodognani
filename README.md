@@ -1,8 +1,13 @@
 
 ![githubImg](https://user-images.githubusercontent.com/82122343/184031939-10a0f20d-1e03-4753-b994-e70a56975756.jpg)
 
-<img align="right" width="280" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
-
+<div align="center">
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=Leonardodognani&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img width="180" src="https://i.pinimg.com/originals/85/6b/48/856b487f0161a19bd74c36c27918b383.gif">
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardodognani&layout=compact&langs_count=7&theme=react"/>
+</div>
+##
+##
 
 <div>
   <a href="https://github.com/Leonardodognani">
