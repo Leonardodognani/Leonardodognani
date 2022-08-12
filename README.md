@@ -40,7 +40,8 @@
   
   ##
  
-<div>
+<h1 align="center">Contact</h1>
+<div align="center">
 <a href="https://github.com/Leonardodognani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"></a>
 <a href="https://www.linkedin.com/in/leonardodognani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "mailto:leonarddewar@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -73,28 +74,44 @@ The experience with the public and the empathy accumulated by the years of deali
 ##
 
 # Courses in Progress
-## 🎓 React - The Complete Guide (incl Hooks, React Router, Redux)' - 48,5h - Prof. Maximilian Schwarzmüller, by Udemy
-## 🎓 The Complete JavaScript Course 2022: From Zero to Expert!' - 69h - Prof. Jonas Schmedtmann, by Udemy
+<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>React - The Complete Guide (incl Hooks, React Router, Redux) - 48,5h - Prof. Maximilian Schwarzmüller, by Udemy</h3>
+
+##
+
+<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>The Complete JavaScript Course 2022: From Zero to Expert! - 69h - Prof. Jonas Schmedtmann, by Udemy</h3>
  
  ##
  
- ### ⭐ Inglês avançado (autodidata)
- 
- ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
- ### 📚 Amante de livros
- ### 👨‍🍳 Adoro cozinhar
- ### 🍺 Apreciador de cerveja 
- ### 🍷  Ás vezes faço hidromel (Meadmaker)
- ### ✍️ Escritor amador com algumas publicações  
- ### 🌲 Natureza
- ### 🐺 Adoro animais, especialmente Lobos
- ### 🎞️ Curto assistir filmes, séries, animes e desenhos 
- ### 🎮 Tenho interesse em criação de jogos (e curto jogar também)
- ### 🧐 Sou curioso e gosto de aprender coisas novas
- ### 👹 Tattoo
- ### 🖥️ Home Office
+ # Languages
+ <img width="50" align="left" src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-culture/60/037_001_bubble_chat_language_global-512.png">
+ <h3>Portuguese - native fluence</h3>
  
  ##
  
-## <img align="left" src="https://64.media.tumblr.com/4cf1cc6e28fa35120ce2fd7b81736ac8/tumblr_p14wxjQaZI1wbwnoqo1_400.gifv"><p align="justify">Fique à vontade para entrar em contato, seja para trocar ideias, dúvidas ou até mesmo para aumentar o nosso networking <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25"></p><img align="right" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
+ <img width="50" align="left" src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-culture/60/037_001_bubble_chat_language_global-512.png">
+ <h3>English - advanced fluence (self-taught)</h3>
+ 
+ ##
+ 
+ <h1 align="left">Curiosities and Personal Information</h1>
+ <img align="right" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
+ <div align="left">
+  <p>🥋 Kuro Obi (faixa preta) de Dento Karatê</p>
+  📚 Amante de livros
+  👨‍🍳 Adoro cozinhar
+  🍺 Apreciador de cerveja 
+  🍷  Ás vezes faço hidromel (Meadmaker)
+  ✍️ Escritor amador com algumas publicações  
+  🌲 Natureza
+  🐺 Adoro animais, especialmente Lobos
+  🎞️ Curto assistir filmes, séries, animes e desenhos 
+  🎮 Tenho interesse em criação de jogos (e curto jogar também)
+  🧐 Sou curioso e gosto de aprender coisas novas
+  👹 Tattoo
+  🖥️ Home Office
+ </div>
+ 
+ ##
+ 
+<p align="justify">Fique à vontade para entrar em contato, seja para trocar ideias, dúvidas ou até mesmo para aumentar o nosso networking <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25"></p><img align="right" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
 
