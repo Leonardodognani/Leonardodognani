@@ -57,31 +57,29 @@ I like to learn new things and i always keep an open mind to new ideas.</p></h3>
 The experience with the public and the empathy accumulated by the years of dealing with people, added qualities that facilitate communication and understanding both with clients and with direct or indirect collaborators in work environments.</p></h3></div>
 
   ##
- #  Education
- ### 👨‍🎓 Undergraduating student in Superior Technological in Internet Systems, at FAM - Faculdade das Américas
+ # Education
+ <img width="70" align="left" src="https://aux.iconspalace.com/uploads/252716766816354179.png">
+<h3>Undergraduating student in Superior Technological on Systems for Internet, at FAM - Faculdade das Américas - Brazil <br>2021 - currently</h3>
 
 ##
 
 # Certifications
-<div style=display:inline-block, style=row>
-  <a href="https://imgur.com/fjUkQLh"><img width="250" src="https://i.imgur.com/fjUkQLh.jpg" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/e5SbN3i"><img width="235" src="https://i.imgur.com/e5SbN3i.jpg" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/coYNSQE"><img width="235" src="https://i.imgur.com/coYNSQE.jpg" title="source: imgur.com" /></a>
+<div>
+  <img width="250" src="https://i.imgur.com/fjUkQLh.jpg" title="certification" />&nbsp
+  <img width="237" src="https://i.imgur.com/e5SbN3i.jpg" title="certification" />&nbsp
+  <img width="237" src="https://i.imgur.com/coYNSQE.jpg" title="certification" />&nbsp
 </div>
 
-### 🎓 Curso de Git e GitHub, do básico ao avançado - 8.5h - Prof. Matheus Battisti, pela Udemy
-### 🎓 Build Responsive Real-World Websites with HTML and CSS - 37.5h - Prof. Jonas Schmedtmann, pela Udemy
-### 🎓 Cursando 'React - The Complete Guide (incl Hooks, React Router, Redux)' - 48,5h - Prof. Maximilian Schwarzmüller, pela Udemy
-### 🎓 Cursando 'The Complete JavaScript Course 2022: From Zero to Expert!' - 69h - Prof. Jonas Schmedtmann, pela Udemy
+##
+
+# Courses in Progress
+## 🎓 React - The Complete Guide (incl Hooks, React Router, Redux)' - 48,5h - Prof. Maximilian Schwarzmüller, by Udemy
+## 🎓 The Complete JavaScript Course 2022: From Zero to Expert!' - 69h - Prof. Jonas Schmedtmann, by Udemy
  
  ##
  
  ### ⭐ Inglês avançado (autodidata)
- ### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
- ### 🎓 Curso de Git e GitHub, do básico ao avançado - 8.5h - Prof. Matheus Battisti, pela Udemy
- ### 🎓 Build Responsive Real-World Websites with HTML and CSS - 37.5h - Prof. Jonas Schmedtmann, pela Udemy
- ### 🎓 Cursando 'React - The Complete Guide (incl Hooks, React Router, Redux)' - 48,5h - Prof. Maximilian Schwarzmüller, pela Udemy
- ### 🎓 Cursando 'The Complete JavaScript Course 2022: From Zero to Expert!' - 69h - Prof. Jonas Schmedtmann, pela Udemy
+ 
  ### 🥋 Kuro Obi (faixa preta) de Dento Karatê
  ### 📚 Amante de livros
  ### 👨‍🍳 Adoro cozinhar
