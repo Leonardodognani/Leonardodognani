@@ -41,6 +41,7 @@
  
  # About me
  
+ <img align="left" width="240" src="https://i.imgur.com/YvX21PV.jpg" title="source: imgur.com" />
 <div align="justify"><h3><p>My name is Leonardo, I am from Rio de Janeiro (Carioca), I'm 37 years old and live in the city of Piracicaba, in São Paulo's countryside.
 I live with my wife and we have 2 very cute and lazybone cats. I am currently an Intern at Venturus and I'm very happy and excited about all the possibilities and especially for being part of this company, from which I had excellent references. I am very proud to be a "Venturer" =)
 I like to learn new things and I always keep an open mind to new ideas.</p></h3></div>
