@@ -85,7 +85,7 @@ The experience with the public and the empathy accumulated by the years of deali
  ##
  
  <h1 align="left">Curiosities and Personal Information</h1>
- <img align="right" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
+ <img align="right" width="500" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
  <div align="left">
   <p>🥋 Entusiast of Traditional Martial Arts</p>
   <p>📚 Book lover</p>
@@ -96,7 +96,7 @@ The experience with the public and the empathy accumulated by the years of deali
   <p>🌲 Nature</p>
   <p>🐺 I love animals, especially wolves</p>
   <p>🎞️ I enjoy watching movies, series, animes and cartoons</p> 
-  <p>🎮 Have some interest in game's creation (and I enjoy playing games too)</p>
+  <p>🎮 Have some interest in game's creation (PLAY too!)</p>
   <p>🧐 I'm curious and I like to learn new things</p>
   <p>👹 Tattoo</p>
   <p>🖥️ Love Home Office</p>
