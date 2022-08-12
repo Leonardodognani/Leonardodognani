@@ -51,8 +51,8 @@
  
  # About me
  
-<div align="justify"><h3><p>My name is Leonardo, I'm from Rio de Janeiro (Carioca), I'm 37 years old and I live in the city of Piracicaba, in São Paulo countryside.
-I live with my wife and we have 2 very cute and lazybone cats. I'm currently an Internship at Venturus and I'm very happy and excited about all the possibilities and especially for being part of this company, from which I had excellent references. I'm very proud to be a "Venturer" =)
+<div align="justify"><h3><p>My name is Leonardo, I am from Rio de Janeiro (Carioca), I am 37 years old and live in the city of Piracicaba, in São Paulo's countryside.
+I live with my wife and we have 2 very cute and lazybone cats. I am currently an Intern at Venturus and I am very happy and excited about all the possibilities and especially for being part of this company, from which I had excellent references. I am very proud to be a "Venturer" =)
 I like to learn new things and i always keep an open mind to new ideas.</p></h3></div>
 <div align="justify"><h3><p>I am communicative and I always try to make work environments more comfortable for everyone. 
 The experience with the public and the empathy accumulated by the years of dealing with people, added qualities that facilitate communication and understanding both with clients and with direct or indirect collaborators in work environments.</p></h3></div>
