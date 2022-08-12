@@ -88,7 +88,7 @@ The experience with the public and the empathy accumulated by the years of deali
  <div align="left">
   <p>🥋 Entusiast of Traditional Martial Arts</p>
   <p>📚 Book Lover</p>
-  <p>👨‍🍳 I like to cook (and eat xD)</p>
+  <p>👨‍🍳 I like to cook (Eat as well!)</p>
   <p>🍺 Good beer fan</p> 
   <p>🍷 Sometimes I brew some mead (Meadmaker)</p>
   <p>✍️ Amateur writer with few publications</p>  
