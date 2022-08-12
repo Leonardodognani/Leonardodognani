@@ -62,11 +62,11 @@ The experience with the public and the empathy accumulated by the years of deali
 
 ##
 
-<div style=display:inline-block>
 # Certifications
-<a href="https://imgur.com/fjUkQLh"><img width="250" align="left" src="https://i.imgur.com/fjUkQLh.jpg" title="source: imgur.com" /></a>
-<a href="https://imgur.com/e5SbN3i"><img width="235" align="center" src="https://i.imgur.com/e5SbN3i.jpg" title="source: imgur.com" /></a>
-<a href="https://imgur.com/coYNSQE"><img width="235" align="right" src="https://i.imgur.com/coYNSQE.jpg" title="source: imgur.com" /></a>
+<div style=display:inline-block, style=row>
+  <a href="https://imgur.com/fjUkQLh"><img width="250" src="https://i.imgur.com/fjUkQLh.jpg" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/e5SbN3i"><img width="235" src="https://i.imgur.com/e5SbN3i.jpg" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/coYNSQE"><img width="235" src="https://i.imgur.com/coYNSQE.jpg" title="source: imgur.com" /></a>
 </div>
 
 ### 🎓 Curso de Git e GitHub, do básico ao avançado - 8.5h - Prof. Matheus Battisti, pela Udemy
