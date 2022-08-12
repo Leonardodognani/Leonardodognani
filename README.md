@@ -24,7 +24,7 @@
 </div>
 <br>
 
- <h1 align="center">Basic notion</h1>
+ <h1 align="center">Basic Notion</h1>
 <div style="display: inline_block" align="center">
  <img alt="Leo-Csharp" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"> 
  <img alt="Leo-DotNet" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"> 
@@ -88,7 +88,7 @@ The experience with the public and the empathy accumulated by the years of deali
  <img align="right" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
  <div align="left">
   <p>🥋 Entusiast of Traditional Martial Arts</p>
-  <p>📚 Book Lover</p>
+  <p>📚 Book lover</p>
   <p>👨‍🍳 I like to cook (Eat as well!)</p>
   <p>🍺 Good beer fan</p> 
   <p>🍷 Sometimes I brew some mead (Meadmaker)</p>
