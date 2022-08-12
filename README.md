@@ -85,7 +85,7 @@ The experience with the public and the empathy accumulated by the years of deali
  ##
  
  <h1 align="left">Curiosities and Personal Information</h1>
- <img align="right" width="500" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
+ <img align="right" width="450" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
  <div align="left">
   <p>🥋 Entusiast of Traditional Martial Arts</p>
   <p>📚 Book lover</p>
