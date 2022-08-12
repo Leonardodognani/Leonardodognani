@@ -36,16 +36,6 @@
 <div align="center">
   <img width="600" src="https://c.tenor.com/YgRC88yv2-wAAAAC/wolfs-wolf.gif">
 </div>
- 
-  
-  ##
- 
-<h1 align="center">Contact</h1>
-<div align="center">
-<a href="https://github.com/Leonardodognani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"></a>
-<a href="https://www.linkedin.com/in/leonardodognani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:leonarddewar@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
   
   ##
  
@@ -113,5 +103,14 @@ The experience with the public and the empathy accumulated by the years of deali
  
  ##
  
-<h2 align="justify">Feel free to get in touch, whether to exchange ideas, questions or even to increase our networking</h2> <img align="right" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
+<h3 align="center">Feel free to get in touch, whether to exchange ideas, questions or even to increase our networking</h3>
+<img align="right" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
+<img align="left" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
+
+<h1 align="center">Contacts</h1>
+<div align="center">
+<a href="https://github.com/Leonardodognani"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"></a>
+<a href="https://www.linkedin.com/in/leonardodognani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto:leonarddewar@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
 
