@@ -48,16 +48,32 @@
   
   ##
  
- ## Um pouco sobre mim
- <img align="left" width="365" src="https://thumbs.gfycat.com/BlueSaltyGoral-size_restricted.gif">
+ # About me
  
-<h3><p align="justify">Me chamo Leonardo, sou carioca, tenho 37 anos e resido na cidade de Piracicaba, terra da garapa e da pamonha, no interior de SP. Moro com minha esposa e temos 2 gatos muito fofos e folgados. Atualmente trabalho na Venturus, como estagiário em tecnologia.
-Estou muito feliz e empolgado em ser um Ventureiro e de poder aprender mais a cada dia^^.</p></h3>
-<h3><p align="justify">Sou comunicativo e sempre procuro deixar os ambientes de trabalho mais confortáveis para todos. A experiência com o público e a empatia acumulada por anos lidando com pessoas, me agregaram qualidades as quais facilitam a comunicação e entendimento tanto com clientes quanto com colaboradores diretos ou indiretos nos meus ambientes de trabalho.</p></h3>
+<div align="justify"><h3><p>My name is Leonardo, I'm from Rio de Janeiro (Carioca), I'm 37 years old and I live in the city of Piracicaba, in São Paulo countryside.
+I live with my wife and we have 2 very cute and lazybone cats. I'm currently an Internship at Venturus and I'm very happy and excited about all the possibilities and especially for being part of this company, from which I had excellent references. I'm very proud to be a "Venturer" =)
+I like to learn new things and i always keep an open mind to new ideas.</p></h3></div>
+<div align="justify"><h3><p>I am communicative and I always try to make work environments more comfortable for everyone. 
+The experience with the public and the empathy accumulated by the years of dealing with people, added qualities that facilitate communication and understanding both with clients and with direct or indirect collaborators in work environments.</p></h3></div>
 
   ##
+ #  Education
+ ### 👨‍🎓 Undergraduating student in Superior Technological in Internet Systems, at FAM - Faculdade das Américas
+
+##
+
+# Certifications
+<a href="https://imgur.com/fjUkQLh"><img width="300" align="left" src="https://i.imgur.com/fjUkQLh.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/e5SbN3i"><img width="285" align="center" src="https://i.imgur.com/e5SbN3i.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/coYNSQE"><img width="285" align="right" src="https://i.imgur.com/coYNSQE.jpg" title="source: imgur.com" /></a>
+
+### 🎓 Curso de Git e GitHub, do básico ao avançado - 8.5h - Prof. Matheus Battisti, pela Udemy
+### 🎓 Build Responsive Real-World Websites with HTML and CSS - 37.5h - Prof. Jonas Schmedtmann, pela Udemy
+### 🎓 Cursando 'React - The Complete Guide (incl Hooks, React Router, Redux)' - 48,5h - Prof. Maximilian Schwarzmüller, pela Udemy
+### 🎓 Cursando 'The Complete JavaScript Course 2022: From Zero to Expert!' - 69h - Prof. Jonas Schmedtmann, pela Udemy
  
- ### 👨‍🎓 Cursando Superior Tecnológico (CST) de Sistemas para Internet, pela FAM - Faculdade das Américas
+ ##
+ 
  ### ⭐ Inglês avançado (autodidata)
  ### 🎓 Bootcamp de HTML Web Developer - 27h - pela plataforma da Digital Innovation One
  ### 🎓 Curso de Git e GitHub, do básico ao avançado - 8.5h - Prof. Matheus Battisti, pela Udemy
