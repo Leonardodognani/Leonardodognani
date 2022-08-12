@@ -96,19 +96,19 @@ The experience with the public and the empathy accumulated by the years of deali
  <h1 align="left">Curiosities and Personal Information</h1>
  <img align="right" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
  <div align="left">
-  <p>🥋 Kuro Obi (faixa preta) de Dento Karatê</p>
-  📚 Amante de livros
-  👨‍🍳 Adoro cozinhar
-  🍺 Apreciador de cerveja 
-  🍷  Ás vezes faço hidromel (Meadmaker)
-  ✍️ Escritor amador com algumas publicações  
-  🌲 Natureza
-  🐺 Adoro animais, especialmente Lobos
-  🎞️ Curto assistir filmes, séries, animes e desenhos 
-  🎮 Tenho interesse em criação de jogos (e curto jogar também)
-  🧐 Sou curioso e gosto de aprender coisas novas
-  👹 Tattoo
-  🖥️ Home Office
+  <p>🥋 Kuro Obi (Black Belt) of Dento Karatê</p>
+  <p>📚 Amante de livros</p>
+  <p>👨‍🍳 Adoro cozinhar</p>
+  <p>🍺 Apreciador de cerveja</p> 
+  <p>🍷  Ás vezes faço hidromel (Meadmaker)</p>
+  <p>✍️ Escritor amador com algumas publicações</p>  
+  <p>🌲 Natureza</p>
+  <p>🐺 Adoro animais, especialmente Lobos</p>
+  <p>🎞️ Curto assistir filmes, séries, animes e desenhos</p> 
+  <p>🎮 Tenho interesse em criação de jogos (e curto jogar também)</p>
+  <p>🧐 Sou curioso e gosto de aprender coisas novas</p>
+  <p>👹 Tattoo</p>
+  <p>🖥️ Home Office</p>
  </div>
  
  ##
