@@ -96,22 +96,22 @@ The experience with the public and the empathy accumulated by the years of deali
  <h1 align="left">Curiosities and Personal Information</h1>
  <img align="right" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
  <div align="left">
-  <p>🥋 Kuro Obi (Black Belt) of Dento Karatê</p>
-  <p>📚 Amante de livros</p>
-  <p>👨‍🍳 Adoro cozinhar</p>
-  <p>🍺 Apreciador de cerveja</p> 
-  <p>🍷  Ás vezes faço hidromel (Meadmaker)</p>
-  <p>✍️ Escritor amador com algumas publicações</p>  
-  <p>🌲 Natureza</p>
-  <p>🐺 Adoro animais, especialmente Lobos</p>
-  <p>🎞️ Curto assistir filmes, séries, animes e desenhos</p> 
-  <p>🎮 Tenho interesse em criação de jogos (e curto jogar também)</p>
-  <p>🧐 Sou curioso e gosto de aprender coisas novas</p>
+  <p>🥋 Entusiast of Traditional Martial Arts</p>
+  <p>📚 Book Lover</p>
+  <p>👨‍🍳 I like to cook (and eat xD)</p>
+  <p>🍺 Good beer fan</p> 
+  <p>🍷 Sometimes I brew some mead (Meadmaker)</p>
+  <p>✍️ Amateur writer with few publications</p>  
+  <p>🌲 Nature</p>
+  <p>🐺 I love animals, especially wolves</p>
+  <p>🎞️ I enjoy watching movies, series, animes and cartoons</p> 
+  <p>🎮 Have some interest in game's creation (and I enjoy playing games too)</p>
+  <p>🧐 I'm curious and I like to learn new things</p>
   <p>👹 Tattoo</p>
-  <p>🖥️ Home Office</p>
+  <p>🖥️ Love Home Office</p>
  </div>
  
  ##
  
-<p align="justify">Fique à vontade para entrar em contato, seja para trocar ideias, dúvidas ou até mesmo para aumentar o nosso networking <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25"></p><img align="right" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
+<h2 align="justify">Feel free to get in touch, whether to exchange ideas, questions or even to increase our networking</h2> <img align="right" width="130" src="https://static.wikia.nocookie.net/narutooriginals/images/0/01/Wqd.png/revision/latest/scale-to-width-down/282?cb=20131230105027">
 
