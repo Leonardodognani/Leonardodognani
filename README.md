@@ -8,7 +8,7 @@
 </div>
   
  
-  <h1 align="center">Skills:</h1>
+  <h1 align="center">Skills</h1>
 <div style="display: inline_block" align="center">
   <img align="center" alt="Leo-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,14 +17,14 @@
  </div>
  <br>
  
- <h1 align="center">Currently Studying:</h1>
+ <h1 align="center">Currently Studying</h1>
 <div style="display: inline_block" align="center">
  <img align="center" alt="Leo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Leo-React height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 <br>
 
- <h1 align="center">Basic notion:</h1>
+ <h1 align="center">Basic notion</h1>
 <div style="display: inline_block" align="center">
  <img alt="Leo-Csharp" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"> 
  <img alt="Leo-DotNet" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"> 
