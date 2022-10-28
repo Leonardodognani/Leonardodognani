@@ -56,11 +56,13 @@ The experience with the public and the empathy accumulated by the years of deali
 ##
 
 # Certifications
-<div>
+<div align="center">
   <img width="250" src="https://i.imgur.com/fjUkQLh.jpg" title="certification" />&nbsp
   <img width="237" src="https://i.imgur.com/e5SbN3i.jpg" title="certification" />&nbsp
   <img width="237" src="https://i.imgur.com/coYNSQE.jpg" title="certification" />&nbsp
-  <img width ="250" src="https://i.imgur.com/LMuSblY.jpg" title="certification" />
+</div>
+<div align="center">
+  &nbsp <img width ="237" src="https://i.imgur.com/LMuSblY.jpg" title="certification" />
 </div>
 
 ##
