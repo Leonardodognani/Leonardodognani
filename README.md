@@ -76,6 +76,10 @@ The experience with the public and the empathy accumulated by the years of deali
  
  ##
  
+ <img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>DESIGN RULES: Principles + Practices for Great UI Design - 5h - Prof. Joe Natoli, by Udemy</h3>
+
+ ##
+
  # Languages
  <img width="50" align="left" src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-culture/60/037_001_bubble_chat_language_global-512.png">
  <h3>Portuguese - native fluence</h3>
