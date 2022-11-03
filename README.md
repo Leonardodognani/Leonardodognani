@@ -91,6 +91,11 @@ The experience with the public and the empathy accumulated by the years of deali
  
  ##
  
+ <img width="50" align="left" src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-culture/60/037_001_bubble_chat_language_global-512.png">
+ <h3>Spanish - begginer</h3>
+ 
+ ##
+ 
  <h1 align="left">Curiosities and Personal Information</h1>
  <img align="right" width="450" src="https://i.imgur.com/JoYwTPr.png" title="source: imgur.com" />
  <div align="left">
