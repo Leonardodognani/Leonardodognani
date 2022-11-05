@@ -26,9 +26,9 @@
 
  <h1 align="center">Basic Notion</h1>
 <div style="display: inline_block" align="center">
- <img alt="Leo-Csharp" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"> 
- <img alt="Leo-DotNet" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"> 
- <img alt="Leo-MySql" align="center" heigth=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
+ <img alt="Leo-Csharp" align="center" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"> 
+ <img alt="Leo-DotNet" align="center" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"> 
+ <img alt="Leo-MySql" align="center" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
 </div>
 
 ##
@@ -62,7 +62,8 @@ The experience with the public and the empathy accumulated by the years of deali
   <img width="237" src="https://i.imgur.com/coYNSQE.jpg" title="certification" />&nbsp
 </div>
 <div align="center">
-  &nbsp <img width ="237" src="https://i.imgur.com/LMuSblY.jpg" title="certification" />
+  &nbsp <img width ="250" src="https://i.imgur.com/LMuSblY.jpg" title="certification" />&nbsp
+  <img width="237" src="https://i.imgur.com/OQgTzej.jpg" title="certification" />
 </div>
 
 ##
@@ -74,9 +75,6 @@ The experience with the public and the empathy accumulated by the years of deali
 
 <img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>The Complete JavaScript Course 2022: From Zero to Expert! - 69h - Prof. Jonas Schmedtmann, by Udemy</h3>
  
- ##
- 
- <img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>DESIGN RULES: Principles + Practices for Great UI Design - 5h - Prof. Joe Natoli, by Udemy</h3>
 
  ##
 
