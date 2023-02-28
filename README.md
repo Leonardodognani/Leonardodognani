@@ -20,7 +20,8 @@
  <h1 align="center">Currently Studying</h1>
 <div style="display: inline_block" align="center">
  <img align="center" alt="Leo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Leo-React height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Leo-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Leo-TS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 <br>
 
@@ -69,11 +70,7 @@ The experience with the public and the empathy accumulated by the years of deali
 ##
 
 # Courses in Progress
-<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>React - The Complete Guide (incl Hooks, React Router, Redux) - 48,5h - Prof. Maximilian Schwarzmüller, by Udemy</h3>
-
-##
-
-<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>The Complete JavaScript Course 2022: From Zero to Expert! - 69h - Prof. Jonas Schmedtmann, by Udemy</h3>
+<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns - 146h - Prof. Luiz Otávio Miranda, by Udemy</h3>
  
 
  ##
@@ -88,9 +85,14 @@ The experience with the public and the empathy accumulated by the years of deali
  <h3>English - advanced fluence (self-taught)</h3>
  
  ##
- 
+                                                                                                                                                  
  <img width="50" align="left" src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-culture/60/037_001_bubble_chat_language_global-512.png">
  <h3>Spanish - begginer</h3>
+ 
+ ##
+                                                                                                                                                  
+ <img width="50" align="left" src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-culture/60/037_001_bubble_chat_language_global-512.png">
+ <h3>Mandarin - starting</h3>
  
  ##
  
