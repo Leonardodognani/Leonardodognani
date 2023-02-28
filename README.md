@@ -86,10 +86,6 @@ The experience with the public and the empathy accumulated by the years of deali
  
  ##
                                                                                                                                                   
- <img width="50" align="left" src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-culture/60/037_001_bubble_chat_language_global-512.png">
- <h3>Spanish - begginer</h3>
- 
- ##
                                                                                                                                                   
  <img width="50" align="left" src="https://cdn1.iconfinder.com/data/icons/unigrid-bluetone-culture/60/037_001_bubble_chat_language_global-512.png">
  <h3>Mandarin - starting</h3>
