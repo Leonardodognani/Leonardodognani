@@ -71,7 +71,10 @@ The experience with the public and the empathy accumulated by the years of deali
 
 # Courses in Progress
 <img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns - 146h - Prof. Luiz Otávio Miranda, by Udemy</h3>
- 
+
+##
+
+<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>Aprenda Falar Chinês Mandarim em 10 dias - (Básico para viagens) - 4,5h - Prof. Cleber Florencio Lucena de Souza, by Udemy</h3>
 
  ##
 
