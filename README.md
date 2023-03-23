@@ -21,14 +21,11 @@
 <div style="display: inline_block" align="center">
  <img align="center" alt="Leo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Leo-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
- <img align="center" alt="Leo-TS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 <br>
 
  <h1 align="center">Basic Notion</h1>
-<div style="display: inline_block" align="center">
- <img alt="Leo-Csharp" align="center" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"> 
- <img alt="Leo-DotNet" align="center" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"> 
+<div style="display: inline_block" align="center"> 
  <img alt="Leo-MySql" align="center" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
 </div>
 
@@ -44,12 +41,15 @@
  
  <img align="left" width="240" src="https://i.imgur.com/YvX21PV.jpg" title="source: imgur.com" />
 <div align="justify"><h3><p>My name is Leonardo, I am from Rio de Janeiro (Carioca), I'm 37 years old and live in the city of Piracicaba, in São Paulo's countryside.
-I live with my wife and we have 2 very cute and lazybone cats. I am currently an Intern at Venturus and I'm very happy and excited about all the possibilities and especially for being part of this company, from which I had excellent references. I am very proud to be a "Venturer" =)
-I like to learn new things and I always keep an open mind to new ideas.</p></h3></div>
+I live with my wife and we have 2 very cute and lazybone cats.
+I like to learn new things and I always keep an open mind to new ideas. I usually cross the knowledge of different learning to solve problems and deliver results.</p></h3></div>
 <div align="justify"><h3><p>I'm communicative and I always try to make work environments more comfortable for everyone. 
-The experience with the public and the empathy accumulated by the years of dealing with people, added qualities that facilitate communication and understanding both with clients and with direct or indirect collaborators in work environments.</p></h3></div>
+The experience with the public and the empathy accumulated by the years of dealing with people, added qualities that facilitate communication and understanding both with clients and with direct or indirect collaborators in work environments. I have extensive experience in dealing with people and situations in different forms and dynamics of interaction.</p></h3></div>
 
   ##
+  
+ ##
+ 
  # Education
  <img width="70" align="left" src="https://aux.iconspalace.com/uploads/252716766816354179.png">
 <h3>Undergraduating student in Superior Technological on Systems for Internet, at FAM - Faculdade das Américas - Brazil <br>2021 - currently</h3>
@@ -70,11 +70,8 @@ The experience with the public and the empathy accumulated by the years of deali
 ##
 
 # Courses in Progress
-<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns - 146h - Prof. Luiz Otávio Miranda, by Udemy</h3>
+<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>Chinês 28 Dias - Um  mês experimental de mandarim, do zero ao primeiro certificado - Prof. Liao Si 廖思老师, by Clube de Chinês Pula Muralha</h3>
 
-##
-
-<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>Aprenda Falar Chinês Mandarim em 10 dias - (Básico para viagens) - 4,5h - Prof. Cleber Florencio Lucena de Souza, by Udemy</h3>
 
  ##
 
