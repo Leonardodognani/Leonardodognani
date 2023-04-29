@@ -20,12 +20,13 @@
  <h1 align="center">Currently Studying</h1>
 <div style="display: inline_block" align="center">
  <img align="center" alt="Leo-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Leo-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Leo-Cy" height="60" width="70" src="https://i.imgur.com/07pFVJI.jpg">
 </div>
 <br>
 
  <h1 align="center">Basic Notion</h1>
-<div style="display: inline_block" align="center"> 
+<div style="display: inline_block" align="center">
+ <img align="center" alt="Leo-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
  <img alt="Leo-MySql" align="center" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
 </div>
 
@@ -57,14 +58,15 @@ The experience with the public and the empathy accumulated by the years of deali
 ##
 
 # Certifications
-<div align="center">
+<div align="left">
   <img width="250" src="https://i.imgur.com/fjUkQLh.jpg" title="certification" />&nbsp
   <img width="237" src="https://i.imgur.com/e5SbN3i.jpg" title="certification" />&nbsp
-  <img width="237" src="https://i.imgur.com/coYNSQE.jpg" title="certification" />&nbsp
+  <img width="237" src="https://i.imgur.com/coYNSQE.jpg" title="certification" />
 </div>
-<div align="center">
-  &nbsp <img width ="250" src="https://i.imgur.com/LMuSblY.jpg" title="certification" />&nbsp
-  <img width="237" src="https://i.imgur.com/OQgTzej.jpg" title="certification" />
+<div align="left">
+  <img width ="250" src="https://i.imgur.com/LMuSblY.jpg" title="certification" />&nbsp
+  <img width="237" src="https://i.imgur.com/OQgTzej.jpg" title="certification" />&nbsp
+  <img width="249" src="https://i.imgur.com/6ND2AdA.jpg" title="certification" />
 </div>
 
 ##
