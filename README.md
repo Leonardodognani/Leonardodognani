@@ -72,7 +72,7 @@ The experience with the public and the empathy accumulated by the years of deali
 ##
 
 # Courses in Progress
-<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>Chinês 28 Dias - Um  mês experimental de mandarim, do zero ao primeiro certificado - Prof. Liao Si 廖思老师, by Clube de Chinês Pula Muralha</h3>
+<img align="left" width="50" src="https://cdn.icon-icons.com/icons2/3310/PNG/512/laptop_computer_books_study_pc_icon_209270.png"><h3>Testes Automatizados com Cypress - básico - 4,5 horas - Prof. Walmyr Filho, by Udemy</h3>
 
 
  ##
