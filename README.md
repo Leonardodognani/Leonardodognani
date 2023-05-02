@@ -46,6 +46,14 @@ I live with my wife and we have 2 very cute and lazybone cats.
 I like to learn new things and I always keep an open mind to new ideas. I usually cross the knowledge of different learning to solve problems and deliver results.</p></h3></div>
 <div align="justify"><h3><p>I'm communicative and I always try to make work environments more comfortable for everyone. 
 The experience with the public and the empathy accumulated by the years of dealing with people, added qualities that facilitate communication and understanding both with clients and with direct or indirect collaborators in work environments. I have extensive experience in dealing with people and situations in different forms and dynamics of interaction.</p></h3></div>
+<div align="justify"><h3><p>I need to point out that I will finish my technological graduation in December
+2023 and, if necessary and if the interested of some Company, I am open to future
+positions that require a new graduation, post-graduation and/or improvement
+  courses, because learning is never too much.</p>
+
+<p>I'm starting to study Cypress to join the QA area and I'm also open for internships/apprenticeships. My current intentions are to study Cypress, get an internship/job to learn more, improve myself and, as soon as I finish the course, do one or more postgraduate courses in the Quality and Management areas.</p>
+
+  <p>Any questions or curiosity, send me a msg!</p>
 
   ##
   
