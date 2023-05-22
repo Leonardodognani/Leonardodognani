@@ -41,7 +41,7 @@
  # About me
  
  <img align="left" width="240" src="https://i.imgur.com/YvX21PV.jpg" title="source: imgur.com" />
-<div align="justify"><h3><p>My name is Leonardo, I am from Rio de Janeiro (Carioca), I'm 37 years old and live in the city of Piracicaba, in São Paulo's countryside.
+<div align="justify"><h3><p>My name is Leonardo, I am from Rio de Janeiro (Carioca), I'm 38 years old and live in the city of Piracicaba, in São Paulo's countryside.
 I live with my wife and we have 2 very cute and lazybone cats.
 I like to learn new things and I always keep an open mind to new ideas. I usually cross the knowledge of different learning to solve problems and deliver results.</p></h3></div>
 <div align="justify"><h3><p>I'm communicative and I always try to make work environments more comfortable for everyone. 
